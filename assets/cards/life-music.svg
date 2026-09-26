@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" aria-labelledby="title"><title id="title">耳机里的世界：邓紫棋；民谣、流行、古风、戏腔；DJ与Remix</title><defs><radialGradient id="glow"><stop stop-color="#c1adff" stop-opacity=".14"/><stop offset="1" stop-color="#c1adff" stop-opacity="0"/></radialGradient></defs>
+ <rect x="1" y="1" width="398" height="318" rx="24" fill="#131d31" stroke="#35465f"/>
+ <circle cx="337" cy="61" r="122" fill="url(#glow)"/>
+ <path d="M27 37H75" stroke="#c1adff" stroke-width="3" stroke-linecap="round"/>
+ <text x="28" y="72" fill="#c1adff" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.2">ON MY PLAYLIST</text>
+ <g transform="translate(270 28)" stroke="#c1adff" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M13 59V43a36 36 0 0172 0v16"/><rect x="6" y="44" width="15" height="29" rx="7"/><rect x="77" y="44" width="15" height="29" rx="7"/><path d="M34 49v16M43 39v33M52 31v46M61 43v24"/></g>
+ <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+ <text x="27" y="145" fill="#f2f6ff" font-size="32" font-weight="650">耳机里的世界</text>
+ <text x="28" y="194" fill="#c1adff" font-size="22">邓紫棋</text><text x="28" y="228" fill="#b8c8da" font-size="20">民谣 · 流行 · 古风 · 戏腔</text><text x="28" y="262" fill="#b8c8da" font-size="20">DJ / Remix 也在歌单里</text></g><path d="M28 289H372" stroke="#2a3b54"/></svg>

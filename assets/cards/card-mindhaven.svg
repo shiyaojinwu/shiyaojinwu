@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mindhaven · 心屿衍生进阶演示与持续探索</title>
+  <desc id="desc">由心屿项目衍生的 Mindhaven 进阶演示版，已有多租户、RAG 与上下文管理实践；完善 Agent 能力与学习 Web 是持续迭代目标，不代表复杂 Agent 已实现。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#152940"/><stop offset="1" stop-color="#111a30"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#78d9ff" stop-opacity=".17"/><stop offset="1" stop-color="#78d9ff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent"><stop stop-color="#78d9ff"/><stop offset="1" stop-color="#b6c6ff"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="358" rx="24" fill="url(#bg)" stroke="#35516b" stroke-width="2"/>
+  <path d="M26 2H774" stroke="url(#accent)" stroke-width="3"/>
+  <ellipse cx="648" cy="111" rx="188" ry="162" fill="url(#glow)"/>
+  <g fill="none" stroke="#78d9ff" stroke-opacity=".12">
+    <circle cx="649" cy="123" r="102"/><circle cx="649" cy="123" r="124"/>
+    <path d="M518 123H780M649 15V234" stroke-dasharray="3 9"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="36" y="30" width="114" height="27" rx="13.5" fill="#78d9ff" fill-opacity=".12"/>
+    <text x="52" y="49" fill="#b6c6ff" font-size="14" font-weight="600" letter-spacing="1.3">01 / BUILD</text>
+    <text x="36" y="116" fill="#f3f8ff" font-size="48" font-weight="700">Mindhaven</text>
+    <text x="37" y="155" fill="#9adff8" font-size="26">心屿衍生 · 进阶演示</text>
+    <path d="M36 195H483" stroke="#35516b"/>
+    <text x="36" y="239" fill="#e6f2ff" font-size="36" font-weight="500">多租户 · RAG · 上下文</text>
+    <text x="36" y="280" fill="#acbdd3" font-size="34">持续迭代 Agent 与 Web</text>
+    <text x="36" y="330" fill="#8ea6bd" font-size="15" letter-spacing="2">CONTINUOUS EXPLORATION</text>
+  </g>
+  <g transform="translate(552 41)" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 79V106Q48 125 66 125H130L153 145V125H158Q176 125 176 107V53Q176 35 158 35H144" stroke="#b6c6ff" fill="#111a30"/>
+    <path d="M18 10H112Q132 10 132 30V79Q132 99 112 99H57L29 122V99H18Q0 99 0 79V30Q0 10 18 10Z" stroke="#78d9ff" fill="#152940"/>
+    <path d="M26 35H101M26 53H83M26 71H65" stroke="#78d9ff" stroke-opacity=".8"/>
+    <rect x="97" y="80" width="50" height="38" rx="9" fill="#152940" stroke="#b6c6ff"/>
+    <path d="M112 99H132M122 89V109" stroke="#b6c6ff"/>
+    <circle cx="174" cy="14" r="5" stroke="#78d9ff"/>
+    <path d="M158 158H183M177 152L183 158L177 164" stroke="#b6c6ff" stroke-width="2"/>
+  </g>
+  <path d="M659 320h75m-11-11 11 11-11 11" fill="none" stroke="#78d9ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

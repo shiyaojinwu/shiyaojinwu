@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI-Story · 字节跳动训练营团队项目</title>
+  <desc id="desc">字节跳动训练营团队项目 AI-Story，担任组长、负责项目统筹与 Android 架构和客户端开发；后端及模型工作由团队协作完成。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#29213f"/><stop offset="1" stop-color="#17162d"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#bf9cff" stop-opacity=".17"/><stop offset="1" stop-color="#bf9cff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent"><stop stop-color="#bf9cff"/><stop offset="1" stop-color="#e0c8ff"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="358" rx="24" fill="url(#bg)" stroke="#514067" stroke-width="2"/>
+  <path d="M26 2H774" stroke="url(#accent)" stroke-width="3"/>
+  <ellipse cx="648" cy="111" rx="188" ry="162" fill="url(#glow)"/>
+  <g fill="none" stroke="#bf9cff" stroke-opacity=".12">
+    <circle cx="649" cy="123" r="102"/><circle cx="649" cy="123" r="124"/>
+    <path d="M518 123H780M649 15V234" stroke-dasharray="3 9"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <rect x="36" y="30" width="114" height="27" rx="13.5" fill="#bf9cff" fill-opacity=".12"/>
+    <text x="52" y="49" fill="#e0c8ff" font-size="14" font-weight="600" letter-spacing="1.3">02 / BUILD</text>
+    <text x="36" y="116" fill="#f3f8ff" font-size="48" font-weight="700">AI-Story</text>
+    <text x="37" y="155" fill="#ceb8ed" font-size="26">字节跳动训练营</text>
+    <path d="M36 195H483" stroke="#514067"/>
+    <text x="36" y="239" fill="#e6f2ff" font-size="36" font-weight="500">组长 · 项目统筹</text>
+    <text x="36" y="280" fill="#acbdd3" font-size="34">Android 架构与开发</text>
+    <text x="36" y="330" fill="#8ea6bd" font-size="15" letter-spacing="2">TEAM LEAD · ANDROID</text>
+  </g>
+  <g transform="translate(552 41)" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="22" width="125" height="93" rx="13" fill="#29213f" stroke="#bf9cff"/>
+    <path d="M1 46H126" stroke="#bf9cff" stroke-opacity=".6"/>
+    <circle cx="16" cy="34" r="2" fill="#e0c8ff" stroke="none"/><circle cx="28" cy="34" r="2" fill="#e0c8ff" stroke="none"/>
+    <circle cx="36" cy="66" r="8" stroke="#e0c8ff"/>
+    <path d="M15 100L48 77L68 92L85 70L111 100Z" stroke="#bf9cff" fill="#bf9cff" fill-opacity=".09"/>
+    <rect x="108" y="3" width="72" height="151" rx="15" fill="#17162d" stroke="#e0c8ff"/>
+    <path d="M128 15H160M133 141H155" stroke="#bf9cff" stroke-width="2.5"/>
+    <rect x="119" y="35" width="50" height="65" rx="6" fill="#29213f" stroke="#bf9cff"/>
+    <path d="M139 54L151 65L139 76Z" stroke="#e0c8ff" fill="#e0c8ff" fill-opacity=".18"/>
+    <path d="M120 115H167M120 126H153" stroke="#bf9cff" stroke-width="2.5"/>
+    <path d="M41 138V154M33 146H49" stroke="#e0c8ff" stroke-width="2"/>
+    <circle cx="188" cy="176" r="4" stroke="#bf9cff" stroke-width="2"/>
+  </g>
+  <path d="M659 320h75m-11-11 11 11-11 11" fill="none" stroke="#bf9cff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

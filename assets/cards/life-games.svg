@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" aria-labelledby="title"><title id="title">游戏存档：万战木兰；姬小满、曜；喜欢甘雨与胡桃</title><defs><radialGradient id="glow"><stop stop-color="#8cddff" stop-opacity=".14"/><stop offset="1" stop-color="#8cddff" stop-opacity="0"/></radialGradient></defs>
+ <rect x="1" y="1" width="398" height="318" rx="24" fill="#131d31" stroke="#35465f"/>
+ <circle cx="337" cy="61" r="122" fill="url(#glow)"/>
+ <path d="M27 37H75" stroke="#8cddff" stroke-width="3" stroke-linecap="round"/>
+ <text x="28" y="72" fill="#8cddff" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.2">PLAYER NOTES</text>
+ <g transform="translate(270 28)" stroke="#8cddff" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 35c5-14 18-19 32-12l9 1c13-6 27-2 32 12l7 31c3 13-10 22-20 12L59 67H42L29 80C17 91 3 81 7 68Z"/><path d="M26 39v20M16 49h20"/><circle cx="69" cy="40" r="3"/><circle cx="80" cy="52" r="3"/></g>
+ <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+ <text x="27" y="145" fill="#f2f6ff" font-size="32" font-weight="650">游戏存档</text>
+ <text x="28" y="194" fill="#8cddff" font-size="22">万战木兰 · 姬小满 · 曜</text><text x="28" y="228" fill="#b8c8da" font-size="20">甘雨 × 胡桃</text></g><path d="M28 289H372" stroke="#2a3b54"/></svg>

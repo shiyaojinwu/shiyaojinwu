@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" aria-labelledby="title"><title id="title">台球时间：喜欢打台球</title><defs><radialGradient id="glow"><stop stop-color="#8cdec6" stop-opacity=".14"/><stop offset="1" stop-color="#8cdec6" stop-opacity="0"/></radialGradient></defs>
+ <rect x="1" y="1" width="398" height="318" rx="24" fill="#131d31" stroke="#35465f"/>
+ <circle cx="337" cy="61" r="122" fill="url(#glow)"/>
+ <path d="M27 37H75" stroke="#8cdec6" stroke-width="3" stroke-linecap="round"/>
+ <text x="28" y="72" fill="#8cdec6" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.2">AWAY FROM THE SCREEN</text>
+ <g transform="translate(270 28)" stroke="#8cdec6" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="8" width="96" height="67" rx="10"/><path d="M15 20h70v43H15Z"/><circle cx="62" cy="33" r="7"/><circle cx="42" cy="48" r="5"/><path d="M91 93L48 50" stroke-width="4"/><circle cx="15" cy="20" r="3"/><circle cx="85" cy="20" r="3"/><circle cx="15" cy="63" r="3"/></g>
+ <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+ <text x="27" y="145" fill="#f2f6ff" font-size="32" font-weight="650">台球时间</text>
+ <text x="28" y="194" fill="#8cdec6" font-size="22">代码之外，也拿起球杆</text><text x="28" y="228" fill="#b8c8da" font-size="20">喜欢打台球</text></g><path d="M28 289H372" stroke="#2a3b54"/></svg>
