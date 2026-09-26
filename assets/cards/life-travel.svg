@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" aria-labelledby="title"><title id="title">下一段旅程：旅行 · Citywalk；去远方，也漫步城市</title><defs><radialGradient id="glow"><stop stop-color="#ffbe96" stop-opacity=".14"/><stop offset="1" stop-color="#ffbe96" stop-opacity="0"/></radialGradient></defs>
- <rect x="1" y="1" width="398" height="318" rx="24" fill="#131d31" stroke="#35465f"/>
- <circle cx="337" cy="61" r="122" fill="url(#glow)"/>
- <path d="M27 37H75" stroke="#ffbe96" stroke-width="3" stroke-linecap="round"/>
- <text x="28" y="72" fill="#ffbe96" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.2">SOMEWHERE NEW</text>
- <g transform="translate(270 28)" stroke="#ffbe96" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 78L30 36l22 31L72 19l29 59Z"/><path d="M60 47l12-28 12 27-10-5-6 9Z"/><circle cx="20" cy="17" r="9"/><path d="M1 88h102"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-labelledby="title"><title id="title">下一段旅程：旅行 · Citywalk；去远方，也漫步城市</title><defs><radialGradient id="glow"><stop stop-color="#ffbe96" stop-opacity=".14"/><stop offset="1" stop-color="#ffbe96" stop-opacity="0"/></radialGradient></defs>
+ <rect x="1" y="1" width="398" height="218" rx="20" fill="#131d31" stroke="#35465f"/>
+ <circle cx="350" cy="38" r="94" fill="url(#glow)"/>
+ <path d="M28 52H64" stroke="#ffbe96" stroke-width="3" stroke-linecap="round"/>
+ <text x="28" y="34" fill="#ffbe96" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.6">SOMEWHERE NEW</text>
+ <g transform="translate(306 20) scale(.66)" stroke="#ffbe96" fill="none" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 78L30 36l22 31L72 19l29 59Z"/><path d="M60 47l12-28 12 27-10-5-6 9Z"/><circle cx="20" cy="17" r="9"/><path d="M1 88h102"/></g>
  <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
- <text x="27" y="145" fill="#f2f6ff" font-size="32" font-weight="650">下一段旅程</text>
- <text x="28" y="194" fill="#ffbe96" font-size="22">旅行 · Citywalk</text><text x="28" y="228" fill="#b8c8da" font-size="20">去远方，也漫步城市</text></g><path d="M28 289H372" stroke="#2a3b54"/></svg>
+ <text x="27" y="87" fill="#f2f6ff" font-size="28" font-weight="650">下一段旅程</text>
+ <text x="28" y="129" fill="#ffbe96" font-size="22">旅行 · Citywalk</text><text x="28" y="158" fill="#b8c8da" font-size="20">去远方，也漫步城市</text></g><path d="M28 202H372" stroke="#2a3b54"/></svg>
