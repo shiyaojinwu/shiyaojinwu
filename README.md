@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/images/hero-anime.png" width="100%" alt="A moonlit harbor in blue and amber, with Ganyu and Hu Tao, a laptop, headphones, and a travel journal." />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/images/hero-anime.png" />
+    <img src="assets/images/hero-anime-animated.gif" width="100%" alt="A moonlit harbor in blue and amber, with Ganyu and Hu Tao, gently twinkling stars, glowing lanterns, a laptop, headphones, and a travel journal." />
+  </picture>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yihao Zhang · 十曜金乌</h1>
@@ -85,12 +88,7 @@ For a software engineering course, I proposed **SparrowShortLink** and led the t
 ## 🎧 Beyond Code
 
 <p align="center">
-  <img src="assets/cards/life-games.svg" width="48%" alt="游戏：万战木兰，也喜欢姬小满和曜；原神喜欢甘雨和胡桃。" />
-  <img src="assets/cards/life-music.svg" width="48%" alt="音乐：邓紫棋，民谣、流行、古风、戏腔，也听 DJ 和 Remix。" />
-</p>
-<p align="center">
-  <img src="assets/cards/life-billiards.svg" width="48%" alt="台球：喜欢打台球，代码之外也会拿起球杆。" />
-  <img src="assets/cards/life-travel.svg" width="48%" alt="旅行与 Citywalk：去远方，也漫步城市。" />
+  <img src="assets/cards/life-grid.svg" width="612" alt="代码之外：游戏——万战木兰，也喜欢姬小满和曜；原神喜欢甘雨和胡桃。音乐——邓紫棋，民谣、流行、古风、戏腔，也听 DJ 和 Remix。台球——喜欢打台球，代码之外也会拿起球杆。旅行与 Citywalk——去远方，也漫步城市。" />
 </p>
 
 🎶 Three picks from my playlist: **《唯一》 · 《画心》 · 《牵丝戏》**. I'd love to hear what you're listening to.
