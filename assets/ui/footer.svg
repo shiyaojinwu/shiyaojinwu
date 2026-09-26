@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="166" viewBox="0 0 1200 166" role="img" aria-labelledby="title"><title id="title">Thanks for stopping by. 欢迎交流代码、音乐、游戏、台球，以及下一段旅程。</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="90" viewBox="0 0 680 90" role="img" aria-labelledby="title"><title id="title">Thanks for stopping by. 欢迎交流代码、音乐、游戏、台球，以及下一段旅程。</title>
 <defs><linearGradient id="line"><stop stop-color="#79d9ff"/><stop offset=".5" stop-color="#b6a0ff"/><stop offset="1" stop-color="#ffb58a"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="164" rx="24" fill="#121c30" stroke="#35465f"/>
-<path d="M0 126Q170 70 310 128T615 122T913 122T1200 101" fill="none" stroke="url(#line)" stroke-opacity=".35"/>
-<path d="M0 145Q170 89 310 147T615 141T913 141T1200 120" fill="none" stroke="url(#line)" stroke-opacity=".17"/>
-<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" text-anchor="middle"><text x="600" y="62" fill="#ddf3ff" font-size="26" font-weight="600" letter-spacing="2">THANKS FOR STOPPING BY</text><text x="600" y="101" fill="#b9c8dc" font-size="20">代码、音乐、游戏、台球，以及下一段旅程。</text></g>
-<circle cx="155" cy="56" r="3" fill="#79d9ff"/><circle cx="1040" cy="54" r="3" fill="#ffb58a"/>
+<rect x="1" y="1" width="678" height="88" rx="16" fill="#121c30" stroke="#35465f"/>
+<path d="M1 76Q94 52 175 77T348 75T517 75T679 66" fill="none" stroke="url(#line)" stroke-opacity=".28"/>
+<path d="M1 84Q94 60 175 85T348 83T517 83T679 74" fill="none" stroke="url(#line)" stroke-opacity=".13"/>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" text-anchor="middle"><text x="340" y="34" fill="#ddf3ff" font-size="18" font-weight="600" letter-spacing="1.2">THANKS FOR STOPPING BY</text><text x="340" y="60" fill="#b9c8dc" font-size="14">代码、音乐、游戏、台球，以及下一段旅程。</text></g>
+<circle cx="70" cy="30" r="2.5" fill="#79d9ff"/><circle cx="610" cy="30" r="2.5" fill="#ffb58a"/>
 </svg>

@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/images/hero-anime.png" />
-    <img src="assets/images/hero-anime-animated.gif" width="100%" alt="A moonlit harbor in blue and amber, with Ganyu and Hu Tao, gently twinkling stars, glowing lanterns, a laptop, headphones, and a travel journal." />
+    <img src="assets/images/hero-anime-animated.gif?v=6" width="100%" alt="A moonlit harbor with Ganyu and Hu Tao blinking and gently swaying, a floating ghost, fluttering butterflies, drifting petals and boats, shooting stars, and a glowing laptop screen." />
   </picture>
 </p>
 
@@ -93,6 +93,6 @@ For a software engineering course, I proposed **SparrowShortLink** and led the t
 
 🎶 Three picks from my playlist: **《唯一》 · 《画心》 · 《牵丝戏》**. I'd love to hear what you're listening to.
 
-<p align="center"><img src="assets/ui/footer.svg" width="100%" alt="Thanks for stopping by. Let's talk code, music, games, pool, and our next trip or city walk." /></p>
+<p align="center"><img src="assets/ui/footer.svg?v=2" width="612" alt="Thanks for stopping by. Let's talk code, music, games, pool, and our next trip or city walk." /></p>
 
 <p align="center"><a href="https://github.com/shiyaojinwu"><b>Find me on GitHub ↗</b></a></p>
