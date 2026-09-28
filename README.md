@@ -45,9 +45,9 @@
 
 **Backend & AI**
 
-![Java](assets/badges/java.svg) ![Python](assets/badges/python.svg) ![Spring Boot](assets/badges/spring-boot.svg) ![MyBatis-Plus](assets/badges/mybatis-plus.svg) ![MySQL](assets/badges/mysql.svg) ![Redis](assets/badges/redis.svg) ![SQLite](assets/badges/sqlite.svg)
+![Java](assets/badges/java.svg) ![Python](assets/badges/python.svg) ![Spring Boot](assets/badges/spring-boot.svg) ![MyBatis-Plus](assets/badges/mybatis-plus.svg) ![MySQL](assets/badges/mysql.svg) ![Redis](assets/badges/redis.svg) ![RocketMQ](assets/badges/rocketmq.svg) ![SQLite](assets/badges/sqlite.svg)
 
-![Spring AI](assets/badges/spring-ai.svg) ![Agent](assets/badges/agent.svg) ![Tool Calling](assets/badges/tool-calling.svg) ![RAG](assets/badges/rag.svg) ![Agent Skills](assets/badges/skills.svg)
+![Spring AI](assets/badges/spring-ai.svg) ![Agent](assets/badges/agent.svg) ![Tool Calling](assets/badges/tool-calling.svg) ![MCP](assets/badges/mcp.svg) ![RAG](assets/badges/rag.svg) ![pgvector](assets/badges/pgvector.svg) ![Agent Skills](assets/badges/skills.svg)
 
 **Web & Mobile**
 

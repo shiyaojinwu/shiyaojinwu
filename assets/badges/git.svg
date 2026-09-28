@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="51" height="28" viewBox="0 0 51 28" role="img" aria-label="Git">
-<title>Git</title>
-<rect width="51" height="28" rx="5" fill="#BA3D27"/>
-<text x="25.5" y="18.5" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Git</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="30" viewBox="0 0 61 30" role="img" aria-label="Git"><title>Git</title><rect x="0.5" y="0.5" width="60" height="29" rx="6" fill="#2d2833" stroke="#FFA08B" stroke-opacity="0.65"/><circle cx="12" cy="15" r="3" fill="#FFA08B"/><text x="37.0" y="19.5" text-anchor="middle" fill="#FFA08B" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Git</text></svg>
